@@ -31,7 +31,7 @@ Mobile Screenshot <br />
 
 ## My process
 
-I created a section and assigned a class value "wrapper" to it. I then created a div (class="container") inside the wrapper to house all the content of the qr code component. Using CSS flexbox, I aligned the wrapper horignally and vertically to the center of the screen. I changed the image to a block element so I can easily align it to the center and gave the container a uniform padding of 15px. To get the title and description to match or close to the original desgin, I had to use right left padding of 15px.
+I created a main landmark and assigned a class value "wrapper" to it. I then created a div (class="container") inside the wrapper to house all the content of the qr code component. Using CSS flexbox, I aligned the wrapper horignally and vertically to the center of the screen. I changed the image to a block element so I can easily align it to the center and gave the container a uniform padding of 15px. To get the title and description to match or close to the original desgin, I had to use right left padding of 15px.
 
 ### Built with
 
