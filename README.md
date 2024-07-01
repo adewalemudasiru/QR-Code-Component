@@ -27,7 +27,7 @@ Mobile Screenshot <br />
 ### Links
 
 - Solution URL: [Github](https://github.com/adewalemudasiru/QR-Code-Component)
-- Live Site URL: [SolutionPreview](https://your-live-site-url.com)
+- Live Site URL: [SolutionPreview](https://adewalemudasiru.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -74,7 +74,7 @@ Javascript is proving to be my greatest nightmare and I'm going to keep learning
 ## Author
 
 - Website - [Adewale Mudasiru](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/adewalemudasiru)
+- Frontend Mentor - [@adewalemudasiru](https://www.frontendmentor.io/profile/adewalemudasiru)
 - Twitter - [@ade_mudasiru](https://www.twitter.com/ade_mudasiru)
 
 ## Acknowledgments
